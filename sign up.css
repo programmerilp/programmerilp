@@ -187,7 +187,7 @@ small {
 .section_1 {
   display: flex;
   width: 100%;
-  justify-content: start; }
+  justify-content: end; }
 
 .container_section_top {
   display: flex; }
